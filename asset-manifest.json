@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/brittanyteng.github.io/static/css/main.2b2f90e2.chunk.css",
+    "main.css": "/brittanyteng.github.io/static/css/main.0fd6a0b0.chunk.css",
     "main.js": "/brittanyteng.github.io/static/js/main.18b15b91.chunk.js",
     "main.js.map": "/brittanyteng.github.io/static/js/main.18b15b91.chunk.js.map",
     "runtime-main.js": "/brittanyteng.github.io/static/js/runtime-main.157095e9.js",
@@ -8,9 +8,9 @@
     "static/js/2.8752037b.chunk.js": "/brittanyteng.github.io/static/js/2.8752037b.chunk.js",
     "static/js/2.8752037b.chunk.js.map": "/brittanyteng.github.io/static/js/2.8752037b.chunk.js.map",
     "index.html": "/brittanyteng.github.io/index.html",
-    "precache-manifest.a0d3c51f734b478624e5f63ed4ca2fd1.js": "/brittanyteng.github.io/precache-manifest.a0d3c51f734b478624e5f63ed4ca2fd1.js",
+    "precache-manifest.405d385e85037b2c345b3eafc2ca9650.js": "/brittanyteng.github.io/precache-manifest.405d385e85037b2c345b3eafc2ca9650.js",
     "service-worker.js": "/brittanyteng.github.io/service-worker.js",
-    "static/css/main.2b2f90e2.chunk.css.map": "/brittanyteng.github.io/static/css/main.2b2f90e2.chunk.css.map",
+    "static/css/main.0fd6a0b0.chunk.css.map": "/brittanyteng.github.io/static/css/main.0fd6a0b0.chunk.css.map",
     "static/js/2.8752037b.chunk.js.LICENSE.txt": "/brittanyteng.github.io/static/js/2.8752037b.chunk.js.LICENSE.txt",
     "static/media/Craft_0.jpg": "/brittanyteng.github.io/static/media/Craft_0.10b5b878.jpg",
     "static/media/Craft_1.jpg": "/brittanyteng.github.io/static/media/Craft_1.859a3853.jpg",
@@ -46,7 +46,7 @@
   "entrypoints": [
     "static/js/runtime-main.157095e9.js",
     "static/js/2.8752037b.chunk.js",
-    "static/css/main.2b2f90e2.chunk.css",
+    "static/css/main.0fd6a0b0.chunk.css",
     "static/js/main.18b15b91.chunk.js"
   ]
 }

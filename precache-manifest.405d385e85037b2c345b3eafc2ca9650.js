@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55166fe43496ead36cc97f2c80930b77",
+    "revision": "ae6d2c5b8d2853b7035066109766d7a7",
     "url": "/brittanyteng.github.io/index.html"
   },
   {
-    "revision": "7d85dbd6f212f6853c98",
-    "url": "/brittanyteng.github.io/static/css/main.2b2f90e2.chunk.css"
+    "revision": "d3bd07942b93415dd503",
+    "url": "/brittanyteng.github.io/static/css/main.0fd6a0b0.chunk.css"
   },
   {
     "revision": "cdc08cc597e1257d133c",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brittanyteng.github.io/static/js/2.8752037b.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7d85dbd6f212f6853c98",
+    "revision": "d3bd07942b93415dd503",
     "url": "/brittanyteng.github.io/static/js/main.18b15b91.chunk.js"
   },
   {
