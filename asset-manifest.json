@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/static/css/main.ea725c84.chunk.css",
-    "main.js": "/static/js/main.3af23575.chunk.js",
-    "main.js.map": "/static/js/main.3af23575.chunk.js.map",
+    "main.js": "/static/js/main.e0242072.chunk.js",
+    "main.js.map": "/static/js/main.e0242072.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.68115c05.js",
     "runtime-main.js.map": "/static/js/runtime-main.68115c05.js.map",
-    "static/js/2.3b66f6ea.chunk.js": "/static/js/2.3b66f6ea.chunk.js",
-    "static/js/2.3b66f6ea.chunk.js.map": "/static/js/2.3b66f6ea.chunk.js.map",
+    "static/js/2.49d24bff.chunk.js": "/static/js/2.49d24bff.chunk.js",
+    "static/js/2.49d24bff.chunk.js.map": "/static/js/2.49d24bff.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e3712b986dce30c93a4d7fa0cdf2d672.js": "/precache-manifest.e3712b986dce30c93a4d7fa0cdf2d672.js",
+    "precache-manifest.e342f424e50c1b9e76777824f3fde5f2.js": "/precache-manifest.e342f424e50c1b9e76777824f3fde5f2.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.ea725c84.chunk.css.map": "/static/css/main.ea725c84.chunk.css.map",
-    "static/js/2.3b66f6ea.chunk.js.LICENSE.txt": "/static/js/2.3b66f6ea.chunk.js.LICENSE.txt",
+    "static/js/2.49d24bff.chunk.js.LICENSE.txt": "/static/js/2.49d24bff.chunk.js.LICENSE.txt",
     "static/media/Athlete_0.jpg": "/static/media/Athlete_0.3ed6ab97.jpg",
     "static/media/Athlete_1.png": "/static/media/Athlete_1.3715a3cc.png",
     "static/media/Athlete_10.gif": "/static/media/Athlete_10.83d93063.gif",
@@ -28,6 +28,13 @@
     "static/media/Athlete_7.png": "/static/media/Athlete_7.f6193329.png",
     "static/media/Athlete_8.png": "/static/media/Athlete_8.9e324483.png",
     "static/media/Athlete_9.png": "/static/media/Athlete_9.f800be94.png",
+    "static/media/Breadblok_0.png": "/static/media/Breadblok_0.c65d4f1b.png",
+    "static/media/Breadblok_1.png": "/static/media/Breadblok_1.8e235013.png",
+    "static/media/Breadblok_2.png": "/static/media/Breadblok_2.78685e13.png",
+    "static/media/Breadblok_3.png": "/static/media/Breadblok_3.33bd7eb4.png",
+    "static/media/Breadblok_4.png": "/static/media/Breadblok_4.89471ac5.png",
+    "static/media/Breadblok_5.png": "/static/media/Breadblok_5.643fd2fd.png",
+    "static/media/Breadblok_6.png": "/static/media/Breadblok_6.dcca4e71.png",
     "static/media/Craft_0.jpg": "/static/media/Craft_0.10b5b878.jpg",
     "static/media/Craft_1.jpg": "/static/media/Craft_1.859a3853.jpg",
     "static/media/Craft_10.jpg": "/static/media/Craft_10.312adf55.jpg",
@@ -108,8 +115,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.68115c05.js",
-    "static/js/2.3b66f6ea.chunk.js",
+    "static/js/2.49d24bff.chunk.js",
     "static/css/main.ea725c84.chunk.css",
-    "static/js/main.3af23575.chunk.js"
+    "static/js/main.e0242072.chunk.js"
   ]
 }
