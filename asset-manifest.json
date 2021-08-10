@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.550b9589.chunk.css",
-    "main.js": "/static/js/main.447b87ce.chunk.js",
-    "main.js.map": "/static/js/main.447b87ce.chunk.js.map",
+    "main.js": "/static/js/main.5cd83250.chunk.js",
+    "main.js.map": "/static/js/main.5cd83250.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.68115c05.js",
     "runtime-main.js.map": "/static/js/runtime-main.68115c05.js.map",
     "static/js/2.7ad72d99.chunk.js": "/static/js/2.7ad72d99.chunk.js",
     "static/js/2.7ad72d99.chunk.js.map": "/static/js/2.7ad72d99.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.6c069411e09c9cdba16ef747109b463d.js": "/precache-manifest.6c069411e09c9cdba16ef747109b463d.js",
+    "precache-manifest.3114e067ad590262d637a07b9a6aa819.js": "/precache-manifest.3114e067ad590262d637a07b9a6aa819.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.550b9589.chunk.css.map": "/static/css/main.550b9589.chunk.css.map",
     "static/js/2.7ad72d99.chunk.js.LICENSE.txt": "/static/js/2.7ad72d99.chunk.js.LICENSE.txt",
@@ -36,7 +36,7 @@
     "static/media/Breadblok_1.png": "/static/media/Breadblok_1.15d54c0d.png",
     "static/media/Breadblok_2.png": "/static/media/Breadblok_2.bb85f15c.png",
     "static/media/Breadblok_3.png": "/static/media/Breadblok_3.8ebaae20.png",
-    "static/media/Breadblok_4.png": "/static/media/Breadblok_4.85462e21.png",
+    "static/media/Breadblok_4.png": "/static/media/Breadblok_4.3576e9ac.png",
     "static/media/Breadblok_5.png": "/static/media/Breadblok_5.5d0ca9a9.png",
     "static/media/Breadblok_6.png": "/static/media/Breadblok_6.ca80fc6b.png",
     "static/media/Breadblok_7.png": "/static/media/Breadblok_7.a180a355.png",
@@ -90,6 +90,6 @@
     "static/js/runtime-main.68115c05.js",
     "static/js/2.7ad72d99.chunk.js",
     "static/css/main.550b9589.chunk.css",
-    "static/js/main.447b87ce.chunk.js"
+    "static/js/main.5cd83250.chunk.js"
   ]
 }
