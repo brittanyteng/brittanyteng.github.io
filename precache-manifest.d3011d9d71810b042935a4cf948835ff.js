@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "89f5de29c3b2632a10c927c8fc2f49f2",
+    "revision": "4e8c78e7bc3cc4fc1811c94d15a50f51",
     "url": "/index.html"
   },
   {
-    "revision": "6efc1e73cb3b9c94fef1",
+    "revision": "b4397875f98053408e29",
     "url": "/static/css/main.550b9589.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.7ad72d99.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6efc1e73cb3b9c94fef1",
-    "url": "/static/js/main.5cd83250.chunk.js"
+    "revision": "b4397875f98053408e29",
+    "url": "/static/js/main.39cbb479.chunk.js"
   },
   {
     "revision": "aeed44ef2ba0b6d27f78",
@@ -120,8 +120,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Breadblok_3.8ebaae20.png"
   },
   {
-    "revision": "3576e9ac588f37b79776b24a6aa14d10",
-    "url": "/static/media/Breadblok_4.3576e9ac.png"
+    "revision": "e478ad5668604bb4e365855e618fc885",
+    "url": "/static/media/Breadblok_4.e478ad56.png"
   },
   {
     "revision": "5d0ca9a94334bb284691eae6f6741eb1",
