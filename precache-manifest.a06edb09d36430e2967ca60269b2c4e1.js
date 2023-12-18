@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4fe0e5e83c6b19207dd6a0451924fce7",
+    "revision": "cb663410b3b481cb92bdea0db5990d43",
     "url": "/index.html"
   },
   {
-    "revision": "0ca8da0c97251c9108d1",
-    "url": "/static/css/main.550b9589.chunk.css"
+    "revision": "1d3dc9aa575bea2e7392",
+    "url": "/static/css/main.88cf0736.chunk.css"
   },
   {
-    "revision": "6f6032f35dfc4492b6e6",
-    "url": "/static/js/2.7ad72d99.chunk.js"
+    "revision": "897ec9bb13494ac23df5",
+    "url": "/static/js/2.a4da862c.chunk.js"
   },
   {
     "revision": "3453b8997016469371284a28c0e873e2",
-    "url": "/static/js/2.7ad72d99.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.a4da862c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0ca8da0c97251c9108d1",
-    "url": "/static/js/main.0b5f9725.chunk.js"
+    "revision": "1d3dc9aa575bea2e7392",
+    "url": "/static/js/main.23f7767b.chunk.js"
   },
   {
-    "revision": "aeed44ef2ba0b6d27f78",
-    "url": "/static/js/runtime-main.68115c05.js"
+    "revision": "7b13691bce0094b3afde",
+    "url": "/static/js/runtime-main.f4a40bc8.js"
   },
   {
     "revision": "051cc5dee848b99f1bb45061ff3537c7",
@@ -314,14 +314,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "402af5932be62529857da089c29e012a",
     "url": "/static/media/Transcendent_5.402af593.jpg"
-  },
-  {
-    "revision": "e86529cac7f25691e4661e4158a0428b",
-    "url": "/static/media/arrow-right-filled-icon.e86529ca.svg"
-  },
-  {
-    "revision": "1cc6d32dbf22c7d5dfb7238f91c017bb",
-    "url": "/static/media/arrow-right-icon.1cc6d32d.svg"
   },
   {
     "revision": "9943ef0b03284c80ff0da7c7a4267089",
