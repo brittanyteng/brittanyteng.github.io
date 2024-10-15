@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac364f2e33dc586123c7ee130fa87b02",
+    "revision": "45b209f6c216f896e2f064a14f23417d",
     "url": "/index.html"
   },
   {
-    "revision": "0108bce961d59736b533",
-    "url": "/static/css/main.296f074a.chunk.css"
+    "revision": "87eb52dd219d6381da29",
+    "url": "/static/css/main.e1abd3dd.chunk.css"
   },
   {
-    "revision": "bb194a851c4a1ce59d43",
-    "url": "/static/js/2.4e96fe86.chunk.js"
+    "revision": "315f2d3a24ffd4e77963",
+    "url": "/static/js/2.564d903c.chunk.js"
   },
   {
     "revision": "35f1a3ca561e93b64bcba705f76bd30f",
-    "url": "/static/js/2.4e96fe86.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.564d903c.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0108bce961d59736b533",
-    "url": "/static/js/main.6c5c5b46.chunk.js"
+    "revision": "87eb52dd219d6381da29",
+    "url": "/static/js/main.ace93528.chunk.js"
   },
   {
     "revision": "d710267a3984846633f9",
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Apple4.db8efaed.png"
   },
   {
-    "revision": "3dda51d2f1da5544f78e18f905ccefb5",
-    "url": "/static/media/AppleTV.3dda51d2.png"
+    "revision": "5771fcd745ccc81e5f52176ff26b081e",
+    "url": "/static/media/AppleTV.5771fcd7.png"
   },
   {
     "revision": "0ad0586b0e2e2a6fe62010bff9a9cd5b",
@@ -68,24 +68,24 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Denim-SemiBold.94558bd8.otf"
   },
   {
-    "revision": "258cf364447fef190d5e14e9bb18044c",
-    "url": "/static/media/DogDesktop.258cf364.png"
+    "revision": "4983ef55fb70223f887c0d61c5ca7af1",
+    "url": "/static/media/DogDesktop.4983ef55.png"
   },
   {
-    "revision": "a3d2f9154aad550572d45d79a225c8a1",
-    "url": "/static/media/DogMobile.a3d2f915.png"
+    "revision": "faf4580aff0b3e3a7e0d1091dfdad437",
+    "url": "/static/media/DogMobile.faf4580a.png"
   },
   {
-    "revision": "9a7b86287a3e31cdf07f0ba613caec7f",
-    "url": "/static/media/DogTablet.9a7b8628.png"
+    "revision": "1ac83d5bd5b0164aee72e84c9561dc7d",
+    "url": "/static/media/DogTablet.1ac83d5b.png"
   },
   {
-    "revision": "df7b0b169e027454cba9035b3350ff39",
-    "url": "/static/media/Me.df7b0b16.png"
+    "revision": "532261b84c0302449155ee83d76feaeb",
+    "url": "/static/media/Me.532261b8.png"
   },
   {
-    "revision": "b084678cbf0781e6bc559bdc01ec7e2d",
-    "url": "/static/media/MedicationReminder.b084678c.png"
+    "revision": "4be4f60f47f1111212bc85f992decc9a",
+    "url": "/static/media/MedicationReminder.4be4f60f.png"
   },
   {
     "revision": "fa896e918b649d76a0a26b4be426f221",
@@ -104,8 +104,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/MedicationReminder4.766e5e83.png"
   },
   {
-    "revision": "f48bcfaed4c32cc74cde6604ef855b13",
-    "url": "/static/media/Nike.f48bcfae.png"
+    "revision": "2f4d4bdb787b8217606a0b791d4bc2fb",
+    "url": "/static/media/Nike.2f4d4bdb.png"
   },
   {
     "revision": "6af00f4bbd6cdf9c0e8f9bb09b7ebdb3",
@@ -132,8 +132,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/Nike6.f5495b46.png"
   },
   {
-    "revision": "e26b476ea995bee28581e6ff344a670c",
-    "url": "/static/media/SubManagement.e26b476e.png"
+    "revision": "7d1c429ad42ce29d0c5d09965ad74edb",
+    "url": "/static/media/SubManagement.7d1c429a.png"
   },
   {
     "revision": "03f5a8d4e4d22354aa1018eb885d8f44",
@@ -164,16 +164,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/SubscriptionManagement7.f9f389e0.png"
   },
   {
-    "revision": "6c970a3f3b00d4ec4262c0aa3cb1ed31",
-    "url": "/static/media/TheDaily.6c970a3f.png"
+    "revision": "36d6caab08d702ef3961e8cb201092de",
+    "url": "/static/media/TheDaily.36d6caab.png"
   },
   {
     "revision": "05d5540b66d56978c8928dc9282ab63e",
     "url": "/static/media/TheDaily1.05d5540b.png"
   },
   {
-    "revision": "9a4c84a895100dad43c93dcf50f7ab58",
-    "url": "/static/media/WeightTracker.9a4c84a8.png"
+    "revision": "94ce04ca982d2ad6473e5d820be58a9a",
+    "url": "/static/media/WeightTracker.94ce04ca.png"
   },
   {
     "revision": "e823921192ca44b2531dd4dc7ef89b5a",
